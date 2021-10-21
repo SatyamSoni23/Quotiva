@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:fontFamily="@font/montserrat_semibold"
-        android:text="QUOTIFY"
+        android:text="QUOTIVA"
         android:textAlignment="center"
         android:textColor="#FFF"
         android:textSize="28sp"
@@ -51,7 +51,7 @@
             android:paddingStart="10dp"
             android:text="Genius is one percent inspiration and ninety-nine percent perspiration."
             android:textColor="#454545"
-            android:textSize="24sp" />
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/quoteAuthor"
@@ -62,7 +62,7 @@
             android:paddingStart="10dp"
             android:text="Bruce Wayne"
             android:textColor="#454545"
-            android:textSize="20sp" />
+            android:textSize="17sp" />
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
